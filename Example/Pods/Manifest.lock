@@ -1,0 +1,16 @@
+PODS:
+  - AdditionPod (0.1.0)
+
+DEPENDENCIES:
+  - AdditionPod (from `../`)
+
+EXTERNAL SOURCES:
+  AdditionPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AdditionPod: 197baeb93ba4e0d1e2583033c83f669b35ec40c0
+
+PODFILE CHECKSUM: 8d58066895e725e4d23372efa5361d09e392dc00
+
+COCOAPODS: 1.15.2

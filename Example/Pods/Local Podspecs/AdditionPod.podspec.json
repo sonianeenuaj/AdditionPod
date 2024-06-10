@@ -1,0 +1,22 @@
+{
+  "name": "AdditionPod",
+  "version": "0.1.0",
+  "summary": "A short description of AdditionPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sonianeenu-aj/AdditionPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sonianeenu-aj": "sonianeenu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Sonianeenu-aj/AdditionPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AdditionPod/Classes/**/*"
+}
